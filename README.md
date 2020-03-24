@@ -22,8 +22,8 @@ I printed mine out of cheap PLA at 0.2mm at a very high speed.
 
 ## Images
 
-![Front of Assembly](https://raw.githubusercontent.com/mholiv/Open-Nutrient-Lattice/master/images/front.jpg)
+![Front of Assembly](https://raw.githubusercontent.com/mholiv/paneldue_7i_railcore_case/master/images/front.jpg)
 
-![Back of Assembly](https://raw.githubusercontent.com/mholiv/Open-Nutrient-Lattice/master/images/back.jpg)
+![Back of Assembly](https://raw.githubusercontent.com/mholiv/paneldue_7i_railcore_case/master/images/back.jpg)
 
-![Assembly Mounted on RailCore II 200 ZLT](https://raw.githubusercontent.com/mholiv/Open-Nutrient-Lattice/master/images/mounted.jpg)
+![Assembly Mounted on RailCore II 200 ZLT](https://raw.githubusercontent.com/mholiv/paneldue_7i_railcore_case/master/images/mounted.jpg)
